@@ -57,7 +57,7 @@ Building systems and apps with AI daily. Agents, automations, tools. Not experim
 
 - 💼 [LinkedIn](https://linkedin.com/in/elodie-sobczak)
 - 🐦 [Twitter/X](https://twitter.com/ellieso_)
-- 📧 your@email.com
+- 📧 elodie@pulse-city.com
 
 *Open to collaborations, conversations, and interesting problems.*
 
