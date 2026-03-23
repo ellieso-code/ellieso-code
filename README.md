@@ -37,7 +37,7 @@ Live ops systems, config generators, scheduling tools. Leveraging AI to power be
 Building systems and apps with AI daily. Agents, automations, tools. Not experimenting. Shipping.
 
 ### 🎵 Music
-**SongPin:** A tool for musicians to save and organize inspiration from Spotify and YouTube. Built it because I needed it for my own music production.
+**SongPin:** A tool for musicians to save and organize inspiration for their songwriting and music production. 
 
 *More projects coming as I ship.*
 
