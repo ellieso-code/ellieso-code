@@ -55,8 +55,8 @@ Building systems and apps with AI daily. Agents, automations, tools. Not experim
 
 ## Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter/X](https://twitter.com/your-handle)
+- 💼 [LinkedIn](https://linkedin.com/in/elodie-sobczak)
+- 🐦 [Twitter/X](https://twitter.com/ellieso_)
 - 📧 your@email.com
 
 *Open to collaborations, conversations, and interesting problems.*
