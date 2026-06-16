@@ -1,14 +1,14 @@
 # Hey, I'm Ellie 👋
 
-I'm a product leader and former creative entrepreneur with 10+ years building across games, media, and culture on three continents.
+I'm an AI-native product leader and former creative entrepreneur. For over a decade, I've been bringing bold ideas to life across tech, games, and culture.
 
-Most recently, I shipped Telegram games played by millions, leading product in a lean, fast-moving team. Before tech, I launched festivals and built creative platforms across South East Asia.
+I've led product and built the AI systems behind casual games played by millions. A builder at heart, I thrive in lean, AI-augmented teams that move fast, collaborate closely, and ship things people actually enjoy.
 
-That creative background still shapes how I work: curious, user-focused, always building.
+Before product, I launched festivals, led cross-cultural teams, and built platforms for creators. That creative edge still shapes how I work today: curious, always down to experiment, and never stuck in one lane.
 
-Now I'm exploring AI, turning experiments into products that are equal parts playful and useful.
+Right now, I'm all-in as a builder: shipping my own products, systems, and tools, building AI operating systems, and helping others do the same.
 
-Let's make something people love. ✨
+Let's connect and have a chat! ✨
 
 📍 Paris, France
 
@@ -56,8 +56,6 @@ Building systems and apps with AI daily. Agents, automations, tools. Not experim
 ## Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/elodie-sobczak)
-- 🐦 [Twitter/X](https://twitter.com/ellieso_)
-- 📧 elodie@pulse-city.com
 
 *Open to collaborations, conversations, and interesting problems.*
 
