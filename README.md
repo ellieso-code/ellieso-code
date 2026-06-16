@@ -1,4 +1,4 @@
-# Hey, I'm Ellie 👋
+# Hey, I'm Elodie 👋
 
 I'm an AI-native product leader and former creative entrepreneur. For over a decade, I've been bringing bold ideas to life across tech, games, and culture.
 
